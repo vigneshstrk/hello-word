@@ -1,2 +1,2 @@
-# hello-word
+# Sim serial App
 just another repository
